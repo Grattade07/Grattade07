@@ -4,12 +4,13 @@
 
 :mortar_board: I’m interested in learning how to code and create various web pages/apps
 
-🌱 Having taught myself the basics of programming by following The Odin Project's curriculum I am currently completing a Web Development bootcamp run by HyperionDev with the hope of transitioning careers into a Junior Web Dev role.
+🌱 Having taught myself the basics of programming by following The Odin Project's curriculum I am currently completing a Web Development bootcamp run by HyperionDev with the hope of transitioning careers into a Junior Web Developer role.
 
-If you'd like to look at one of my most recent projects you can find it here: [Repo](https://github.com/Grattade07/finalCapstone) [Hosted Page](https://grattade07.github.io/finalCapstone/)
-Here are some other projects that I built whilst working through The Odin Project:
-* **Calculator**: [Repo](https://github.com/Grattade07/Calculator) [Hosted Page](https://grattade07.github.io/Calculator/)
-* **Browser-based Rock-Paper-Scissors**: [Repo](https://github.com/Grattade07/Rock-Paper-Scissors) [Hosted Page](https://grattade07.github.io/Rock-Paper-Scissors/)
+If you'd like to look at one of my most recent projects you can find it here: [(Repo)](https://github.com/Grattade07/car-database) [(Hosted Page)](https://car-database-83rb.onrender.com)
+
+Here are some other projects that I built whilst working through my bootcamp:
+* **Web Project List**: [(Repo)](https://github.com/Grattade07/Web-Project-List) [(Hosted Page)](https://web-project-app.herokuapp.com)
+* **Hangman Browser Game** : [(Repo)](https://github.com/Grattade07/hangmanGame) [(Hosted Page)](https://grattade07.github.io/hangmanGame/)
 
 📫 If you would like to reach out, you can contact me by email at joe.woodcock15@hotmail.co.uk
 
