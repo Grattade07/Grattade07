@@ -4,8 +4,6 @@
 
 🌱 Having taught myself programming through online resources and completing a bootcamp provided by HyperionDev, I am currently working to create intuitive applications at Cordic.
 
-If you'd like to look at one of my most recent projects you can find it here: [(Repo)](https://github.com/Grattade07/car-database) [(Hosted Page)](https://car-database-83rb.onrender.com)
-
 📫 If you would like to reach out, you can contact me by email at joe.woodcock15@hotmail.co.uk
 
 <!---
