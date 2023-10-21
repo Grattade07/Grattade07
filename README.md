@@ -2,9 +2,9 @@
 
 ![My profile picture](https://media.licdn.com/dms/image/D4E03AQG6QD2rOp4yuA/profile-displayphoto-shrink_200_200/0/1670869386290?e=1678320000&v=beta&t=ARstKABflzdyPhlRIQOUJaUQnY6-mXkBWfZ1RaVequ0)
 
-:mortar_board: I’m interested in learning how to code and create various web pages/apps
+:mortar_board: I’m interested in progressing my ability to write code following best practices to create applications that provide a great user experience and solve problems.
 
-🌱 Having taught myself the basics of programming by following The Odin Project's curriculum I am currently completing a Web Development bootcamp run by HyperionDev with the hope of transitioning careers into a Junior Web Developer role.
+🌱 Having taught myself programming through online resources and completing a bootcamp provided by HyperionDev, I am currently working to create intuitive applications at Cordic.
 
 If you'd like to look at one of my most recent projects you can find it here: [(Repo)](https://github.com/Grattade07/car-database) [(Hosted Page)](https://car-database-83rb.onrender.com)
 
